@@ -3,32 +3,30 @@
 	border: 3px solid black;
 	background-color: lightgray;
 	border-radius: 30px;
-	padding: 20px;
-	height: 100px;
+	padding: 30px;
 	width: 300px;
 	display: flex;
-	justify-content: center;
-	align-content: center;
+	text-align: center;
 }
 
 .green {
-	height: 60px;
-	width: 60px;
+	height: 80px;
+	width: 80px;
 	background-color: green;
-	border-radius: 30px;
-	margin: 20px;
+	border-radius: 40px;
+	margin: 10px;
 }
 .yellow {
-	height: 60px;
-	width: 60px;
+	height: 80px;
+	width: 80px;
 	background-color: yellow;
-	border-radius: 30px;
-	margin: 20px;
+	border-radius: 40px;
+	margin: 10px;
 }
 .red {
-	height: 60px;
-	width: 60px;
+	height: 80px;
+	width: 80px;
 	background-color: red;
-	border-radius: 30px;
-	margin: 20px;
+	border-radius: 40px;
+	margin: 10px;
 }
